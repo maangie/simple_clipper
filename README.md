@@ -1,6 +1,6 @@
 # simple_clipper
 
-(rbclipper)[https://github.com/mieko/rbclipper]の例
+[rbclipper](https://github.com/mieko/rbclipper) の例
 
 ## 使い方
 
