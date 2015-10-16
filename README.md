@@ -10,3 +10,9 @@
 % bundle install
 % bundle exec ruby simple_clipper.rb
 ```
+
+## [gnuplot](http://www.gnuplot.info/) で見る
+
+```bash
+% bundle exec ruby simple_clipper_gnuplot.rb
+```
